@@ -97,9 +97,9 @@
 			<version>1.0.20260206.1</version>
 		</dependency>
 		<dependency>
-			<groupId>ac4y</groupId>
+			<groupId>ac4y.base</groupId>
 			<artifactId>ac4y-class</artifactId>
-			<version>1.0.20260206.1</version>
+			<version>1.0.20260207.1</version>
 		</dependency>
 		<dependency>
 			<groupId>ac4y</groupId>
